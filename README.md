@@ -41,7 +41,7 @@ Together we can create a powerful and educational compiler. 🚀
 
 ## ✍️ Author
 
-**KEGA Guerrero**
+**KEGA**
 Passionate about systems programming, compilers, and computer security.
 
 ---
