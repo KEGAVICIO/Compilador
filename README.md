@@ -33,7 +33,7 @@ Contributions are very welcome! If you want to improve the compiler, add feature
 1. Fork this repository 🍴
 2. Create a new branch with a descriptive name: `feature/new-feature`
 3. Add your code to the project structure
-4. Submit a Pull Request (PR) and mention me (@KEGA-Guerrero) so I can review your contribution ✅
+4. Submit a Pull Request (PR) and mention me (@KEGAVICIO) so I can review your contribution ✅
 
 Together we can create a powerful and educational compiler. 🚀
 
